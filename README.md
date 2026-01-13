@@ -11,13 +11,13 @@ Tools & Tech
 <ul>
 <li>Java, Spring Boot</li>
 
+<li>JavaScript, React</li>
+
 <li>SQL</li>
 
 <li>Git</li>
 
 <li>Python</li>
-
-<li>React</li>
 
 <li>LLMs</li>
 </ul>
